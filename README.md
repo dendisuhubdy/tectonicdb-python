@@ -6,9 +6,9 @@
 
 ![Workflow Status](https://github.com/bitwyre/template-python/workflows/Python%20Package/badge.svg)
 
-# Repo/Module Name Here
+# TectonicDB Python API
 
-This is the template for Python Repository.
+This is the TectonicDB API for Python. 
 
 ## Running in Development Mode
 
@@ -18,11 +18,11 @@ $ run.sh --dev
 
 # Authors
 
-[Bitwyre](https://github.com/bitwyre)
+[Dendi Suhubdy](https://github.com/dendisuhubdy)
 
 ## Contributors
 
-[Bitwyre](https://github.com/bitwyre)
+[Dendi Suhubdy](https://github.com/dendisuhubdy)
 
 # Copyright
 
